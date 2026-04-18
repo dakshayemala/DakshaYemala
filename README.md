@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Daksha Yemala
-I'm a senior product manager who recently started vibe coding and loving the journey so far, I intent to add my projects here shortly
-- 🔭 I’m currently working on writing killer evals
+I'm a senior product manager who enjoys vibe coding and building projects that I miss in my everyday life. 
+- 🔭 Love writing killer evals
 - ⚡ Fun fact: I always clear cache before figuring out what's not working
 -  💬 Ask me about how to convincingly  say "NO"
 
